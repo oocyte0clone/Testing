@@ -4,7 +4,7 @@
  *
  * Website: https://junookyo.blogspot.com/
  */
-namespace oocyte;
+namespace oocyte0clone;
 
 class Chatfuel
 {
