@@ -1,2 +1,21 @@
 {
+    "name": "oocyte0clone/testing",
+    "description": "Test Chatbot",
+    "type": "library",
+    "authors": [
+        {
+            "name": "oocyte",
+            "email": "oocyte0clone@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9"
+        
+},
+        "autoload": {
+        "psr-4": {
+        "oocyte0clone\\": "/Testing"
 }
+        }       
+}          
