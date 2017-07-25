@@ -2,7 +2,7 @@
     "name": "oocyte0clone/testing",
     "description": "Test Chatbot",
     "type": "library",
-     "license": "MITEE",
+     "license": "MIT",
     "authors": [
         {
             "name": "oocyte",
