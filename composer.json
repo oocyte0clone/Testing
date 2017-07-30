@@ -1,5 +1,5 @@
 {
-    "name": "oocyte0clone/Testing",
+    "name": "oocyte0clone/testing",
     "description": "Test Chatbot",
     "type": "library",
      "license": "MIT",
@@ -16,7 +16,7 @@
 },
         "autoload": {
         "psr-4": {
-        "oocyte0clone\\": "/Testing"
+        "oocyte0clone\\": "/testing"
 }
         }       
 }          
