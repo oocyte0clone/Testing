@@ -6,7 +6,7 @@
  */
 
 
-namespace juno_okyo;
+namespace oocyte0clone;
 
 class Chatfuel
 {
