@@ -1,9 +1,4 @@
 <?php
-/**
- * Copyright 2017 Juno_okyo <junookyo@gmail.com>
- *
- * Website: https://junookyo.blogspot.com/
- */
 
 
 namespace oocyte0clone;
